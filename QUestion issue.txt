@@ -1,0 +1,2 @@
+My group memebers amna ali , ayesha khalid can accept my invition , and clone this repo on their  local system , 
+they can create new branches and doing their work on their branch , but this work cannot push on the remote repo..
